@@ -2,7 +2,7 @@
 
 ## ---Sum of Pares---
 
-![Captura de pantalla (106)](https://user-images.githubusercontent.com/92037725/208815595-2913164c-40f8-4ede-9321-334faa77a683.png
+![Captura de pantalla (106)](https://user-images.githubusercontent.com/92037725/208815595-2913164c-40f8-4ede-9321-334faa77a683.png)
 
 ---
 ## ---Mid Point---
